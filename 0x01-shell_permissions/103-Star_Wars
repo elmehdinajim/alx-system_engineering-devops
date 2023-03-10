@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Need root priviliges"
+sudo apt install telnet
+telnet kuber.keenetic.org
