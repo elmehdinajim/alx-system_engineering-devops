@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet kuber.keenetic.org  #in case telnet is not install use -sudo apt install telnet to install-
+telnet towel.blinkenlights.nl
